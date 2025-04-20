@@ -1,2 +1,10 @@
 Admin file
+<<<<<<< HEAD
+New change in main
+login and ogout
+Debugged and Changed
+
+f3
+=======
 Some changes made in the server
+>>>>>>> 69b4a8fa64798f9ffc0971f8382028f94492e6d4
